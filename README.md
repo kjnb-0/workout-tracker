@@ -14,3 +14,4 @@ This is an app to track workouts and see stats over time. Built with MongoDB (an
 
 ![Screen Shot 2021-10-19 at 1 39 35 PM](https://user-images.githubusercontent.com/80792196/137988640-75835987-77a5-4869-b95f-79200ed9688e.png)
 ![Screen Shot 2021-10-19 at 1 39 57 PM](https://user-images.githubusercontent.com/80792196/137988680-d5cc6917-7624-4bad-9b18-12d220fc699c.png)
+![Screen Shot 2021-10-19 at 1 52 42 PM](https://user-images.githubusercontent.com/80792196/137988857-8fbc7a99-3ec1-4360-ba7c-94bdd45953e8.png)
