@@ -23,7 +23,6 @@ router.get("/api/workouts", (req, res) => {
     },
   ])
     .then((workout) => {
-      console.log("YOO", workout);
       res.json(workout);
     })
     .catch((e) => {
